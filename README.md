@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevSlowz
-- 👀 I’m interested in low level programming and web technologies.
-- 🌱 I’m currently learning C++ and current mainstream web technologies such as javascript and type script
+- 👀 I’m interested in low level programming, web technologies, and security.
+- 🌱 I’m currently learning ruby on rails.
 - 💞️ I’m looking to collaborate on backend progjects
 - 📫 The best way to reach me would be at matthewvieira19@gmail.com
 
