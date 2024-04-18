@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevSlowz
 - 👀 I’m interested in low level programming, web technologies, and security.
-- 🌱 I’m currently learning ruby on rails.
+- 🌱 I’m currently developing in Python, Go, Ruby On Rails, and React
 - 💞️ I’m looking to collaborate on backend progjects
 - 📫 The best way to reach me would be at matthewvieira19@gmail.com
 
