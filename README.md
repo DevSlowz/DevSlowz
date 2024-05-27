@@ -4,6 +4,8 @@
 - ✨ Working on the Odin Project and Boot.dev enhancing my skills on both the frontend and backend.
 - 💞️ I’m looking to collaborate on backend progjects
 
+- Developer Profile : https://www.boot.dev/u/slowz
+
 
 <!---
 DevSlowz/DevSlowz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
