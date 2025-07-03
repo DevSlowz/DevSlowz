@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevSlowz
 - 👀 I’m interested in low level programming, web technologies, and security.
 - 🌱 I’m currently developing in Python, Go, Ruby On Rails, and React
-- ✨ Working on the Odin Project and Boot.dev enhancing my skills on both the frontend and backend.
+- ✨ Working on Boot.dev enhancing my skills on backend technologies.
 - 💞️ I’m looking to collaborate on backend progjects
 
 - Developer Profile : https://www.boot.dev/u/slowz
