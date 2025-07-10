@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevSlowz
-- 👀 I’m interested in low level programming, web technologies, and security.
-- 🌱 I’m currently developing in Python, Go, Ruby On Rails, and React
+- 👀 I’m interested in low level programming, infrastructure, and security.
+- 🌱 I’m currently developing in Python, Go, C, and Ruby
 - ✨ Working on Boot.dev enhancing my skills on backend technologies.
 - 💞️ I’m looking to collaborate on backend progjects
 
